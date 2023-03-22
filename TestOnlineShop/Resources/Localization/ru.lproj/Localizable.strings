@@ -1,0 +1,65 @@
+/* 
+  Localizable.strings
+  TestOnlineShop
+
+  Created by Konstantin Grachev on 12.03.2023.
+  
+*/
+
+"Welcome back" = "С возвращением";
+"First name" = "Имя";
+"Password" = "Введите пароль";
+"Login" = "Войти";
+
+"Sign In" = "Зарегистрироваться";
+"First name" = "Имя";
+"Last name" = "Фамилия";
+"Email" = "Email";
+"Sign in" = "Зарегистрироваться";
+"Already have an account?" = "У вас уже есть учетная запись?";
+"Sign in with Google" = "Войти с помощью Google";
+"Sign in with Apple" = "Войти с помощью Apple";
+
+"Trade by " = "Покупай с ";
+"Location" = "Локация";
+
+"What are you looking for ?" = "Что ищем ?";
+"View all" = "Показать все";
+
+"Phones" = "Телефоны";
+"Headphones" = "Наушники";
+"Games" = "Игры";
+"Cars" = "Автомобили";
+"Furniture" = "Фурнитура";
+"Kids" = "Дети";
+
+    
+"ADD TO CART" = "ДОБАВИТЬ В КОРЗИНУ";
+"Quantity" = "Количество";
+
+"Profile" = "Профиль";
+"Change photo" = "Изменить фото";
+"Upload item" = "Поделиться";
+"Trade store" = "Торговый магазин";
+"Payment method" = "Способ оплаты";
+"Balance" = "Баланс";
+"Trade history" = "История покупок";
+"Restore Purchase" = "Восстановить покупку";
+"Help" = "Помощь";
+"Log out" = "Выйти";
+"Latest" = "Недавно просмотренные";
+"Flash sale" = "Быстрая распродажа";
+"Brands" = "Бренды";
+"reviews" = "просмотров";
+"A user with this name already exists in the database. Change the name." = "Пользователь с таким именем уже существует в базе данных. Измените имя.";
+"User already exists." = "Пользователь уже существует.";
+"The user with this name is not in the database.";
+"Пользователь с таким именем нет в базе данных.";
+"The user does not exist." = "Пользователь не существует.";
+"Go back" = "Вернуться назад";
+"Try again" = "Еще раз";
+"From camera" = "Сделать фото";
+"Cancel" = "Отменить";
+"From photos" = "Из библиотеки";
+"Unknown user" = "Пользователь";
+
