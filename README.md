@@ -1,6 +1,7 @@
 <h1>TestOnlineShop</h1>
 
 Это приложение – онлайн магазин, является тестовым заданием на позицию iOS-разработчик.
+
 This application is an online store, it is a test task for the position of iOS developer.
 
 <img src="https://user-images.githubusercontent.com/91027381/226894398-c38be833-5ed4-4549-8e8b-b59c307d165e.gif" alt="preview" width="200" align="left"/>
